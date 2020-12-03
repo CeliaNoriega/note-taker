@@ -1,3 +1,3 @@
 const router = require('express').Router;
 
-router.usearguments()
+router.use('/', require)
